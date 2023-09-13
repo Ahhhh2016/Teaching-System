@@ -1,0 +1,1 @@
+start  frpc.exe
